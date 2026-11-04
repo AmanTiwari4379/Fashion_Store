@@ -71,3 +71,38 @@ The frontend communicates with a RESTful backend API, while MongoDB manages appl
 <li>Frontend and backend communication.</li>
 </ul>
 </ol>
+<h3>Technology Stack</h3>
+<table>
+  <tr>
+    <td><b>Categories</b></td>
+    <td><b>Technologies</b></td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React.js</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Node.js</td>
+  </tr>
+  <tr>
+    <td>Backend Framework</td>
+    <td>Express.js</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MongoDB</td>
+  </tr>
+  <tr>
+    <td>Payment Gateway</td>
+    <td>Stripe</td>
+  </tr>
+  <tr>
+    <td>API Architecture</td>
+    <td>REST API</td>
+  </tr>
+  <tr>
+    <td>Version Control</td>
+    <td>Git and GitHub</td>
+  </tr>
+</table>
