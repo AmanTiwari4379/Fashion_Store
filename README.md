@@ -116,3 +116,23 @@ The application follows a client-server architecture.
   <li><b>Payment Intergration</b>: Stripe and Razorpay handle online payment processing.</li>
   <li><b>Admin Interface</b>: Provides administrative functionality for managing products and orders.</li>
 </ol>
+<h3>Customer Workflow</h3>
+<ol>
+  <li>Customer visits the website.</li>
+  <li>Customer browses available products.</li>
+  <li>Customer selects a product and adds it to the shopping cart.</li>
+  <li>Customer reviews and updates cart items.</li>
+  <li>Customer proceeds to checkout.</li>
+  <li>Customer selects an available payment method.</li>
+  <li>Payment is processed through the integrated payment gateway.</li>
+  <li>Order information is stored and made available for administration.</li>
+</ol>
+<h3>Administrator Workflow</h3>
+<ol type="1">
+  <li>Administrator accesses the admin interface.</li>
+  <li>Administrator authenticates their account.</li>
+  <li>Administrator adds or manages products.</li>
+  <li>Administrator uploads product images.</li>
+  <li>Administrator views customer orders.</li>
+  <li>Administrator updates order statuses.</li>
+</ol>
