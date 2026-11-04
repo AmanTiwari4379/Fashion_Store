@@ -136,3 +136,40 @@ The application follows a client-server architecture.
   <li>Administrator views customer orders.</li>
   <li>Administrator updates order statuses.</li>
 </ol>
+<h3>Payment Integration</h3>
+Stripe: Supports online payment processing.
+
+<h3>Database</h3>
+MongoDB is used as the primary database.
+The application requires data models for the following entities:
+<ul>
+  <li>Users</li>
+  <li>Products</li>
+  <li>Orders</li>
+  <li>Carts</li>
+</ul>
+
+<h3>Learning Outcomes</h3>
+<ul>
+<li>Full-stack web application development.</li>
+
+<li>React component-based architecture.</li>
+
+<li>REST API development and integration.</li>
+
+<li>Backend development using Node.js and Express.js.</li>
+
+<li>MongoDB database integration.</li>
+
+<li>User authentication and authorization.</li>
+
+<li>E-commerce cart and order workflows.</li>
+
+<li>Third-party payment gateway integration.</li>
+
+<li>Frontend and backend communication.</li>
+
+<li>Application deployment and configuration.</li>
+</ul>
+<h3>Author</h3>
+Aman Tiwari
