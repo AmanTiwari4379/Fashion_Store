@@ -106,3 +106,13 @@ The frontend communicates with a RESTful backend API, while MongoDB manages appl
     <td>Git and GitHub</td>
   </tr>
 </table>
+
+<h3>Application Architecture</h3>
+The application follows a client-server architecture.
+<ol type="1">
+  <li><b>Frontend</b>: React.js handles the user interface and customer interactions.</li>
+  <li><b>Backend</b>: Node.js and Express.js handle business logic and API requests.</li>
+  <li><b>Database</b>: MongoDB stores application information.</li>
+  <li><b>Payment Intergration</b>: Stripe and Razorpay handle online payment processing.</li>
+  <li><b>Admin Interface</b>: Provides administrative functionality for managing products and orders.</li>
+</ol>
